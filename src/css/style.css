@@ -2165,6 +2165,13 @@ img.svg{
 	top: 0px;
 	display: none;
 }
+
+.arlo_tm_mobile_header_wrap .logo {
+	color: #E3872D;
+    border: 2px solid #E3872D;
+	padding: 2px 6px;
+	font-weight: bold;
+}
 .arlo_tm_mobile_header_wrap .main_wrap{
 	width: 100%;
 	height: auto;
